@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Yamako123456
-- 👀 I’m interested in Java, .Net
-- 🌱 I’m currently learning Java
+- 👋 Hi, I’m Miyoko Yamakawa (@Yamako123456)
+- 👀 I’m interested in Java, JavaScript, AWS, DevOps
+- 🌱 I’m currently learning Java, JavaScript, Full Stack Web Development, AWS and DevOps concepts and technologies.
 - 💞️ I’m looking to collaborate on intermidiate level projects in near future.
 - 📫 How to reach me yamakodev@gmail.com
 
