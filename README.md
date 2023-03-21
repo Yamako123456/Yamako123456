@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Miyoko Yamakawa (@Yamako123456)
-- 👀 I’m interested in Full Stack Web Development wit Java, JavaScript and.AWS, DevOps
+- 👋 Hi, I’m Miyoko Yamakawa (@Yamako123456). I'm a student of Tech Elevator coding bootcamp!
+- 👀 I’m interested in Full Stack Web Development wit Java, JavaScript and AWS, DevOps.
 - 🌱 I’m currently learning Java, JavaScript, Full Stack Web Development, AWS and DevOps concepts and technologies.
 - 💞️ I’m looking to collaborate on intermidiate level projects in near future.
 - 📫 How to reach me yamakodev@gmail.com
